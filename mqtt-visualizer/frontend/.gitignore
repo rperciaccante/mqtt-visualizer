@@ -1,0 +1,5 @@
+# tsc emit artifacts (noEmit is set; Vite handles bundling)
+src/**/*.js
+src/**/*.js.map
+dist/
+node_modules/

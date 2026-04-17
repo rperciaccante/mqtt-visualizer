@@ -1,0 +1,16 @@
+{
+  "name": "mqtt-visualizer-server",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "mqtt": "^5.0.5",
+    "ws": "^8.17.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
